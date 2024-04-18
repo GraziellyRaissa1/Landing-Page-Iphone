@@ -1,6 +1,6 @@
-# Starbucks
+# Apple
  
- - Landing Page Starbucks
+ - Landing Page loja de Iphone
 
  - Projeto construído com base em um tutorial do Youtube
 
