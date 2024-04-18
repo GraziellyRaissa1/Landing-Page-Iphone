@@ -5,7 +5,7 @@
  - Projeto construído com base em um tutorial do Youtube
 
 ## Acesso
- [Clique aqui para acessar! :)](https://landing-page-iphone-rho.vercel.app/)
+ [Clique aqui para acessar! :)](https://landing-page-iphone-beta.vercel.app/)
 
 ## Tecnologias
 
